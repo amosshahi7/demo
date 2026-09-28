@@ -10,7 +10,7 @@ class democlassstate extends State<democlass>{
   @override
   Widget build(BuildContext context) {
     return Container(
-      child: Text("Welcome to demo classes"),
+      child: Text("Welcome to the demo classes"),
     );
   }
 }
